@@ -1,0 +1,33 @@
+h1 {
+    background-color: rgb(160, 101, 101);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-style: oblique;    
+}
+h2{
+    text-align: left;
+    color: rgb(90, 161, 137);
+    font-style: italic;
+}
+h3{
+    color: rgb(184, 156, 123);
+    text-align: justify;
+}
+h4{
+    text-align: left;
+    color: rgb(101, 31, 31);
+}
+h5{
+    text-align: left;
+    color: rgb(129, 129, 170);
+
+}
+p {
+     color: rgba(101, 71, 40, 0.63);
+    font-style: oblique;
+}
+
+p {
+    color: rgb(88, 63, 24);
+    font-size: 20px;
+}
